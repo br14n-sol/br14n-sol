@@ -9,7 +9,6 @@
     'Coffee',
     'Light Novels',
     'Manga',
-    'Manhua',
     'Manhwa'
   ],
   contacts: [
