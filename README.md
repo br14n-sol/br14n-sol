@@ -12,8 +12,9 @@
     'Manhwa'
   ],
   contacts: [
-    { type: 'email', value: 'br14n_sol@protonmail.com' },
-    { type: 'social', value: 'https://twitter.com/bfndz_' }
+    { type: 'email', value: 'mailto:br14n_sol@protonmail.com' },
+    { type: 'twitter', value: 'https://twitter.com/bfndz_' },
+    { type: 'bsky', value: 'https://bsky.app/profile/bfndz.bsky.social' }
   ]
 }
 ```
