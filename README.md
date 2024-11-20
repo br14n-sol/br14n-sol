@@ -14,7 +14,7 @@
   contacts: [
     { type: 'email', value: 'mailto:br14n_sol@protonmail.com' },
     { type: 'twitter', value: 'https://twitter.com/bfndz_' },
-    { type: 'bsky', value: 'https://bsky.app/profile/brian.lat' }
+    { type: 'bluesky', value: 'https://blskyl.ink/brian.lat' }
   ]
 }
 ```
